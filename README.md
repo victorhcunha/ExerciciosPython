@@ -1,3 +1,3 @@
 # Exercícios Python
 
-Este repositório contém exercícios simples na linguagem python desenvolvidos durante o primeiro contato com programação.
+Este repositório contém exercícios na linguagem python desenvolvidos durante a disciplina Programação 1.
